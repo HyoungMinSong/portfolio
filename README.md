@@ -14,7 +14,7 @@
 
 ## :pencil: Projects
 ### 1. [무중단 배포 게시판](https://github.com/HyoungMinSong/toyproject)
->간단한 커뮤니티 사이트 구현 및 배포를 통한 동작 원리 및 내부 구조 파악 (개인 프로젝트)  
+>간단한 게시판 사이트 구현 및 배포를 통한 동작 원리 및 내부 구조 파악 (개인 프로젝트)  
 >개발 기간: 2022.09.07 ~ 현재
 >  
 >기술 스택:  
@@ -40,6 +40,6 @@
 >개발 기간: 2022.03.02 ~ 2022.03.24  
 >  
 >기술 스택:  
->Java 8 / SpringFramework 4 / Mybatis / JSP / Spring Security / Oracle 
+>Java 8 / SpringFramework 4 / Mybatis / JSP / Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/HyoungMinSong/mall2) 참고
